@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sally-max114514
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me weijianyu0504@163.com
 - 😄 Pronouns: IT民工
 - ⚡ Fun fact: ……
